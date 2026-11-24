@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# openEMS run dirs / NF2FF caches
+mimo_*/
+*.h5
+.venv/
+venv/
